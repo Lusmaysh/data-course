@@ -1,0 +1,1033 @@
+No.,Status Sertifikat,Penggunaan,Kategori Luas,Jenis Nadzir,Kelurahan
+1,SUDAH,MUSHOLLAH,KECIL,Perorangan,Medono
+2,BELUM,MASJID,BESAR,Perorangan,Pasirkratonkramat
+3,SUDAH,MASJID,SEDANG,Perorangan,Podosugih
+4,SUDAH,PENDIDIKAN,BESAR,Perorangan,Pasirkratonkramat
+5,SUDAH,MASJID,SEDANG,Organisasi,Podosugih
+6,SUDAH,MASJID,KECIL,Organisasi,Podosugih
+7,SUDAH,MASJID,SEDANG,Organisasi,Podosugih
+8,BELUM,MUSHOLLAH,SEDANG,Perorangan,Sapuro Kebulen
+9,BELUM,MUSHOLLAH,SEDANG,Perorangan,Podosugih
+10,BELUM,MASJID,BESAR,Perorangan,Medono
+11,BELUM,MUSHOLLAH,KECIL,Perorangan,Pringrejo
+12,BELUM,MASJID,SEDANG,Perorangan,Tirto
+13,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+14,BELUM,MASJID,BESAR,Perorangan,Pasirkratonkramat
+15,BELUM,MUSHOLLAH,SEDANG,Perorangan,Pasirkratonkramat
+16,BELUM,MUSHOLLAH,KECIL,Perorangan,Pringrejo
+17,BELUM,PENDIDIKAN,SEDANG,Perorangan,Pringrejo
+18,BELUM,MUSHOLLAH,KECIL,Perorangan,Pringrejo
+19,BELUM,MUSHOLLAH,KECIL,Perorangan,Pringrejo
+20,BELUM,MUSHOLLAH,SEDANG,Perorangan,Pringrejo
+21,BELUM,MUSHOLLAH,KECIL,Perorangan,Pringrejo
+22,BELUM,PENDIDIKAN,SEDANG,Perorangan,Pringrejo
+23,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+24,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+25,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+26,BELUM,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+27,BELUM,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+28,BELUM,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+29,BELUM,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+30,SUDAH,MUSHOLLAH,KECIL,Perorangan,Podosugih
+31,BELUM,MUSHOLLAH,KECIL,Perorangan,Medono
+32,BELUM,MUSHOLLAH,SEDANG,Perorangan,Pringrejo
+33,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+34,BELUM,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+35,BELUM,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+36,BELUM,PENDIDIKAN,SEDANG,Perorangan,Tirto
+37,BELUM,MAKAM,BESAR,Perorangan,Sapuro Kebulen
+38,BELUM,MAKAM,BESAR,Perorangan,Sapuro Kebulen
+39,BELUM,MAKAM,BESAR,Perorangan,Sapuro Kebulen
+40,SUDAH,MASJID,SEDANG,Perorangan,Sapuro Kebulen
+41,BELUM,MUSHOLLAH,KECIL,Perorangan,Bendan Kergon
+42,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+43,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+44,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+45,SUDAH,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+46,BELUM,MUSHOLLAH,KECIL,Badan Hukum,Pasirkratonkramat
+47,BELUM,MUSHOLLAH,SEDANG,Perorangan,Tirto
+48,BELUM,MASJID,BESAR,Perorangan,Tirto
+49,BELUM,MUSHOLLAH,KECIL,Perorangan,Bendan Kergon
+50,BELUM,MUSHOLLAH,SEDANG,Perorangan,Podosugih
+51,BELUM,MUSHOLLAH,KECIL,Perorangan,Bendan Kergon
+52,BELUM,MUSHOLLAH,SEDANG,Perorangan,Medono
+53,BELUM,MUSHOLLAH,KECIL,Perorangan,Medono
+54,BELUM,MUSHOLLAH,SEDANG,Perorangan,Bendan Kergon
+55,BELUM,PENDIDIKAN,KECIL,Perorangan,Bendan Kergon
+56,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Bendan Kergon
+57,BELUM,MUSHOLLAH,SEDANG,Perorangan,Sapuro Kebulen
+58,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Pringrejo
+59,BELUM,MUSHOLLAH,KECIL,Perorangan,Medono
+60,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Sapuro Kebulen
+61,SUDAH,SOSIAL & KESEHATAN,BESAR,Badan Hukum,Tirto
+62,SUDAH,MASJID,BESAR,Badan Hukum,Tirto
+63,SUDAH,SOSIAL & KESEHATAN,BESAR,Badan Hukum,Tirto
+64,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Medono
+65,BELUM,MASJID,SEDANG,Perorangan,Pringrejo
+66,BELUM,PENDIDIKAN,KECIL,Perorangan,Tirto
+67,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Tirto
+68,BELUM,MUSHOLLAH,KECIL,Perorangan,Tirto
+69,BELUM,MUSHOLLAH,SEDANG,Perorangan,Medono
+70,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Tirto
+71,SUDAH,MUSHOLLAH,BESAR,Badan Hukum,Sapuro Kebulen
+72,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Bendan Kergon
+73,SUDAH,SOSIAL & KESEHATAN,KECIL,Organisasi,Bendan Kergon
+74,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+75,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Pringrejo
+76,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Sapuro Kebulen
+77,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Sapuro Kebulen
+78,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Medono
+79,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Sapuro Kebulen
+80,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+81,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+82,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+83,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Medono
+84,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Medono
+85,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+86,SUDAH,MUSHOLLAH,KECIL,Perorangan,Medono
+87,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Pasirkratonkramat
+88,SUDAH,MUSHOLLAH,KECIL,Perorangan,Medono
+89,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Medono
+90,BELUM,PENDIDIKAN,SEDANG,Badan Hukum,Pringrejo
+91,BELUM,PENDIDIKAN,SEDANG,Badan Hukum,Pringrejo
+92,SUDAH,SOSIAL & KESEHATAN,BESAR,Perorangan,Medono
+93,SUDAH,MASJID,SEDANG,Perorangan,Bendan Kergon
+94,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Medono
+95,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Pringrejo
+96,SUDAH,PENDIDIKAN,KECIL,Perorangan,Pasirkratonkramat
+97,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Medono
+98,SUDAH,MASJID,KECIL,Perorangan,Podosugih
+99,SUDAH,PENDIDIKAN,KECIL,Organisasi,Pasirkratonkramat
+100,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Pasirkratonkramat
+101,SUDAH,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+102,BELUM,MAKAM,BESAR,Perorangan,Sapuro Kebulen
+103,SUDAH,PENDIDIKAN,KECIL,Perorangan,Pasirkratonkramat
+104,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Tirto
+105,SUDAH,MUSHOLLAH,KECIL,Perorangan,Tirto
+106,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Pasirkratonkramat
+107,SUDAH,MASJID,SEDANG,Organisasi,Medono
+108,BELUM,PENDIDIKAN,KECIL,Perorangan,Medono
+109,BELUM,MAKAM,BESAR,Perorangan,Sapuro Kebulen
+110,SUDAH,MUSHOLLAH,KECIL,Perorangan,Medono
+111,SUDAH,SOSIAL & KESEHATAN,KECIL,Perorangan,Medono
+112,SUDAH,MASJID,KECIL,Organisasi,Podosugih
+113,SUDAH,MASJID,KECIL,Organisasi,Podosugih
+114,BELUM,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+115,SUDAH,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+116,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Pringrejo
+117,BELUM,PENDIDIKAN,SEDANG,Badan Hukum,Tirto
+118,SUDAH,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+119,SUDAH,MUSHOLLAH,KECIL,Perorangan,Pringrejo
+120,SUDAH,PENDIDIKAN,KECIL,Perorangan,Pringrejo
+121,SUDAH,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+122,SUDAH,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+123,SUDAH,MUSHOLLAH,KECIL,Perorangan,Medono
+124,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Pringrejo
+125,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Sapuro Kebulen
+126,SUDAH,MUSHOLLAH,KECIL,Perorangan,Pringrejo
+127,BELUM,MUSHOLLAH,KECIL,Perorangan,Medono
+128,SUDAH,MUSHOLLAH,KECIL,Perorangan,Medono
+129,SUDAH,MUSHOLLAH,KECIL,Perorangan,Medono
+130,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pringrejo
+131,SUDAH,PENDIDIKAN,KECIL,Perorangan,Pringrejo
+132,SUDAH,MASJID,SEDANG,Badan Hukum,Podosugih
+133,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pasirkratonkramat
+134,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pasirkratonkramat
+135,BELUM,MUSHOLLAH,KECIL,Perorangan,Medono
+136,BELUM,PENDIDIKAN,SEDANG,Badan Hukum,Bendan Kergon
+137,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Bendan Kergon
+138,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Sapuro Kebulen
+139,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Medono
+140,SUDAH,MASJID,SEDANG,Badan Hukum,Medono
+141,SUDAH,PENDIDIKAN,KECIL,Perorangan,Tirto
+142,SUDAH,PENDIDIKAN,KECIL,Perorangan,Tirto
+143,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Medono
+144,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Medono
+145,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+146,SUDAH,MASJID,KECIL,Organisasi,Tirto
+147,SUDAH,MASJID,SEDANG,Perorangan,Tirto
+148,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Pringrejo
+149,BELUM,MASJID,SEDANG,Badan Hukum,Tirto
+150,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+151,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+152,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+153,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Sapuro Kebulen
+154,SUDAH,MUSHOLLAH,KECIL,Perorangan,Tirto
+155,SUDAH,MASJID,KECIL,Perorangan,Medono
+156,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Bendan Kergon
+157,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+158,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+159,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+160,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pasirkratonkramat
+161,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pasirkratonkramat
+162,BELUM,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+163,SUDAH,MUSHOLLAH,KECIL,Organisasi,Tirto
+164,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+165,SUDAH,MASJID,SEDANG,Perorangan,Medono
+166,SUDAH,MASJID,SEDANG,Perorangan,Medono
+167,SUDAH,MASJID,SEDANG,Perorangan,Pringrejo
+168,SUDAH,PENDIDIKAN,KECIL,Perorangan,Tirto
+169,BELUM,PENDIDIKAN,KECIL,Perorangan,Pringrejo
+170,SUDAH,PENDIDIKAN,SEDANG,Organisasi,Medono
+171,SUDAH,PENDIDIKAN,KECIL,Organisasi,Medono
+172,SUDAH,PENDIDIKAN,KECIL,Organisasi,Medono
+173,SUDAH,PENDIDIKAN,SEDANG,Organisasi,Pringrejo
+174,SUDAH,SOSIAL & KESEHATAN,SEDANG,Organisasi,Podosugih
+175,BELUM,PENDIDIKAN,KECIL,Badan Hukum,Bendan Kergon
+176,BELUM,MASJID,SEDANG,Badan Hukum,Bendan Kergon
+177,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Medono
+178,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+179,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Medono
+180,BELUM,PENDIDIKAN,KECIL,Perorangan,Pringrejo
+181,SUDAH,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+182,SUDAH,MUSHOLLAH,KECIL,Perorangan,Podosugih
+183,BELUM,MUSHOLLAH,SEDANG,Perorangan,Medono
+184,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Pasirkratonkramat
+185,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Bendan Kergon
+186,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Bendan Kergon
+187,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+188,SUDAH,MASJID,SEDANG,Badan Hukum,Medono
+189,SUDAH,MASJID,KECIL,Badan Hukum,Medono
+190,SUDAH,MASJID,KECIL,Badan Hukum,Medono
+191,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Pasirkratonkramat
+192,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Bendan Kergon
+193,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Bendan Kergon
+194,SUDAH,MUSHOLLAH,KECIL,Perorangan,Bendan Kergon
+195,SUDAH,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+196,SUDAH,PENDIDIKAN,KECIL,Perorangan,Tirto
+197,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Medono
+198,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Medono
+199,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Pasirkratonkramat
+200,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Medono
+201,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Medono
+202,SUDAH,SOSIAL & KESEHATAN,BESAR,Badan Hukum,Medono
+203,SUDAH,MASJID,KECIL,Badan Hukum,Tirto
+204,SUDAH,MASJID,SEDANG,Badan Hukum,Tirto
+205,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pasirkratonkramat
+206,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Pasirkratonkramat
+207,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Bendan Kergon
+208,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Tirto
+209,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Tirto
+210,SUDAH,PENDIDIKAN,BESAR,Perorangan,Tirto
+211,BELUM,PENDIDIKAN,SEDANG,Perorangan,Tirto
+212,SUDAH,MASJID,SEDANG,Perorangan,Tirto
+213,SUDAH,MASJID,SEDANG,Perorangan,Tirto
+214,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Podosugih
+215,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Pasirkratonkramat
+216,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Pringrejo
+217,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Sapuro Kebulen
+218,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Pringrejo
+219,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Pringrejo
+220,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Podosugih
+221,SUDAH,MUSHOLLAH,KECIL,Perorangan,Medono
+222,BELUM,MUSHOLLAH,KECIL,Perorangan,Medono
+223,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Tirto
+224,BELUM,MASJID,BESAR,Perorangan,Medono
+225,SUDAH,MASJID,SEDANG,Perorangan,Medono
+226,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Sapuro Kebulen
+227,SUDAH,MASJID,KECIL,Perorangan,Medono
+228,SUDAH,MUSHOLLAH,KECIL,Perorangan,Sapuro Kebulen
+229,BELUM,PENDIDIKAN,SEDANG,Perorangan,Podosugih
+230,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Medono
+231,BELUM,PENDIDIKAN,SEDANG,Perorangan,Sapuro Kebulen
+232,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pringrejo
+233,SUDAH,PENDIDIKAN,KECIL,Perorangan,Pringrejo
+234,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Bendan Kergon
+235,SUDAH,MUSHOLLAH,KECIL,Perorangan,Pasirkratonkramat
+236,SUDAH,MUSHOLLAH,KECIL,Perorangan,Tirto
+237,SUDAH,MASJID,KECIL,Perorangan,Podosugih
+238,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Medono
+239,SUDAH,MASJID,SEDANG,Perorangan,Tirto
+240,SUDAH,PENDIDIKAN,KECIL,Perorangan,Sapuro Kebulen
+241,SUDAH,PENDIDIKAN,KECIL,Perorangan,Sapuro Kebulen
+242,SUDAH,PENDIDIKAN,KECIL,Perorangan,Sapuro Kebulen
+243,SUDAH,MUSHOLLAH,KECIL,Perorangan,Podosugih
+244,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Pringrejo
+245,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pringrejo
+246,SUDAH,SOSIAL & KESEHATAN,SEDANG,Organisasi,Pringrejo
+247,SUDAH,PENDIDIKAN,KECIL,Perorangan,Bendan Kergon
+248,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Bendan Kergon
+249,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Pringrejo
+250,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Pringrejo
+251,SUDAH,MASJID,SEDANG,Perorangan,Pringrejo
+252,SUDAH,MASJID,KECIL,Badan Hukum,Medono
+253,SUDAH,MASJID,SEDANG,Badan Hukum,Medono
+254,SUDAH,MASJID,KECIL,Badan Hukum,Medono
+255,SUDAH,MASJID,KECIL,Badan Hukum,Medono
+256,SUDAH,MASJID,SEDANG,Badan Hukum,Medono
+257,SUDAH,MASJID,KECIL,Badan Hukum,Medono
+258,SUDAH,MASJID,KECIL,Badan Hukum,Medono
+259,SUDAH,MASJID,SEDANG,Badan Hukum,Medono
+260,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Medono
+261,BELUM,MAKAM,BESAR,Perorangan,Pringrejo
+262,BELUM,MAKAM,BESAR,Perorangan,Pringrejo
+263,BELUM,MUSHOLLAH,KECIL,Perorangan,Pringrejo
+264,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Pringrejo
+265,BELUM,SOSIAL & KESEHATAN,SEDANG,Perorangan,Pringrejo
+266,SUDAH,PENDIDIKAN,KECIL,Perorangan,Pringrejo
+267,BELUM,MUSHOLLAH,SEDANG,Perorangan,Sokoduwet
+268,BELUM,MUSHOLLAH,SEDANG,Perorangan,Sokoduwet
+269,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+270,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+271,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+272,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+273,BELUM,MUSHOLLAH,SEDANG,Perorangan,Buaran Kradenan
+274,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+275,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kuripan Yosorejo
+276,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+277,BELUM,MASJID,BESAR,Perorangan,Kuripan Yosorejo
+278,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kuripan Yosorejo
+279,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+280,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+281,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kuripan Yosorejo
+282,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+283,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+284,BELUM,MUSHOLLAH,BESAR,Perorangan,Kuripan Kertoharjo
+285,BELUM,MASJID,BESAR,Perorangan,Kuripan Kertoharjo
+286,BELUM,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+287,BELUM,PENDIDIKAN,SEDANG,Badan Hukum,Kuripan Kertoharjo
+288,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+289,BELUM,MASJID,SEDANG,Perorangan,Sokoduwet
+290,BELUM,PENDIDIKAN,BESAR,Perorangan,Sokoduwet
+291,BELUM,PENDIDIKAN,SEDANG,Perorangan,Sokoduwet
+292,BELUM,PENDIDIKAN,BESAR,Perorangan,Kuripan Kertoharjo
+293,BELUM,MASJID,SEDANG,Badan Hukum,Kuripan Kertoharjo
+294,BELUM,MUSHOLLAH,BESAR,Perorangan,Banyurip
+295,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+296,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+297,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+298,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+299,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+300,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+301,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+302,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+303,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+304,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+305,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+306,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+307,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kuripan Kertoharjo
+308,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+309,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+310,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+311,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+312,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+313,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+314,BELUM,PENDIDIKAN,SEDANG,Perorangan,Sokoduwet
+315,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kuripan Kertoharjo
+316,BELUM,MUSHOLLAH,KECIL,Perorangan,Jenggot
+317,BELUM,MUSHOLLAH,KECIL,Perorangan,Jenggot
+318,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+319,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+320,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+321,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+322,BELUM,MUSHOLLAH,KECIL,Perorangan,Jenggot
+323,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+324,BELUM,MUSHOLLAH,KECIL,Perorangan,Jenggot
+325,BELUM,MUSHOLLAH,KECIL,Perorangan,Jenggot
+326,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+327,BELUM,MUSHOLLAH,KECIL,Perorangan,Jenggot
+328,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+329,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+330,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+331,BELUM,PENDIDIKAN,SEDANG,Perorangan,Jenggot
+332,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+333,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+334,BELUM,MUSHOLLAH,SEDANG,Perorangan,Buaran Kradenan
+335,BELUM,MUSHOLLAH,SEDANG,Perorangan,Buaran Kradenan
+336,BELUM,MUSHOLLAH,KECIL,Perorangan,Banyurip
+337,BELUM,PENDIDIKAN,SEDANG,Organisasi,Kuripan Yosorejo
+338,BELUM,PENDIDIKAN,BESAR,Organisasi,Kuripan Yosorejo
+339,BELUM,LAHAN PRODUKTIF,BESAR,Organisasi,Kuripan Kertoharjo
+340,BELUM,MAKAM,SEDANG,Perorangan,Kuripan Yosorejo
+341,BELUM,MAKAM,SEDANG,Perorangan,Kuripan Yosorejo
+342,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+343,BELUM,MASJID,SEDANG,Badan Hukum,Kuripan Yosorejo
+344,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kuripan Yosorejo
+345,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+346,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+347,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+348,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+349,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+350,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+351,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+352,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+353,BELUM,MASJID,SEDANG,Perorangan,Banyurip
+354,BELUM,MUSHOLLAH,SEDANG,Perorangan,Banyurip
+355,BELUM,MUSHOLLAH,BESAR,Perorangan,Banyurip
+356,BELUM,MASJID,BESAR,Perorangan,Banyurip
+357,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+358,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+359,BELUM,MASJID,SEDANG,Perorangan,Kuripan Kertoharjo
+360,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+361,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kuripan Kertoharjo
+362,BELUM,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+363,BELUM,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+364,BELUM,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+365,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+366,BELUM,MASJID,BESAR,Perorangan,Kuripan Kertoharjo
+367,BELUM,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+368,BELUM,PENDIDIKAN,SEDANG,Perorangan,Buaran Kradenan
+369,BELUM,PENDIDIKAN,BESAR,Perorangan,Jenggot
+370,BELUM,PENDIDIKAN,BESAR,Perorangan,Jenggot
+371,BELUM,PENDIDIKAN,BESAR,Perorangan,Jenggot
+372,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+373,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+374,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+375,BELUM,SOSIAL & KESEHATAN,SEDANG,Perorangan,Kuripan Yosorejo
+376,BELUM,MASJID,BESAR,Perorangan,Kuripan Kertoharjo
+377,BELUM,MASJID,SEDANG,Perorangan,Kuripan Kertoharjo
+378,BELUM,MASJID,BESAR,Perorangan,Kuripan Kertoharjo
+379,BELUM,PENDIDIKAN,BESAR,Perorangan,Kuripan Kertoharjo
+380,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kuripan Kertoharjo
+381,BELUM,MUSHOLLAH,SEDANG,Perorangan,Banyurip
+382,BELUM,PENDIDIKAN,SEDANG,Perorangan,Buaran Kradenan
+383,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+384,BELUM,PENDIDIKAN,SEDANG,Perorangan,Sokoduwet
+385,BELUM,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+386,BELUM,PENDIDIKAN,BESAR,Perorangan,Banyurip
+387,BELUM,MASJID,BESAR,Perorangan,Banyurip
+388,BELUM,PENDIDIKAN,SEDANG,Perorangan,Buaran Kradenan
+389,BELUM,PENDIDIKAN,SEDANG,Perorangan,Buaran Kradenan
+390,BELUM,PENDIDIKAN,SEDANG,Perorangan,Sokoduwet
+391,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kuripan Kertoharjo
+392,BELUM,MASJID,KECIL,Perorangan,Buaran Kradenan
+393,BELUM,PENDIDIKAN,BESAR,Perorangan,Sokoduwet
+394,BELUM,PENDIDIKAN,SEDANG,Perorangan,Buaran Kradenan
+395,BELUM,LAHAN PRODUKTIF,SEDANG,Perorangan,Kuripan Yosorejo
+396,BELUM,MASJID,BESAR,Perorangan,Buaran Kradenan
+397,BELUM,PENDIDIKAN,SEDANG,Perorangan,Buaran Kradenan
+398,SUDAH,PENDIDIKAN,KECIL,Perorangan,Banyurip
+399,SUDAH,PENDIDIKAN,KECIL,Perorangan,Banyurip
+400,BELUM,MUSHOLLAH,SEDANG,Perorangan,Buaran Kradenan
+401,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+402,SUDAH,PENDIDIKAN,BESAR,Organisasi,Jenggot
+403,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+404,BELUM,PENDIDIKAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+405,SUDAH,PENDIDIKAN,BESAR,Organisasi,Buaran Kradenan
+406,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Buaran Kradenan
+407,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Buaran Kradenan
+408,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Banyurip
+409,SUDAH,MASJID,BESAR,Badan Hukum,Buaran Kradenan
+410,BELUM,PENDIDIKAN,SEDANG,Badan Hukum,Banyurip
+411,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Buaran Kradenan
+412,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Buaran Kradenan
+413,SUDAH,SOSIAL & KESEHATAN,BESAR,Badan Hukum,Buaran Kradenan
+414,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+415,SUDAH,SOSIAL & KESEHATAN,BESAR,Perorangan,Kuripan Kertoharjo
+416,SUDAH,PENDIDIKAN,BESAR,Perorangan,Jenggot
+417,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Buaran Kradenan
+418,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Buaran Kradenan
+419,SUDAH,SOSIAL & KESEHATAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+420,SUDAH,SOSIAL & KESEHATAN,SEDANG,Perorangan,Jenggot
+421,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Buaran Kradenan
+422,SUDAH,SOSIAL & KESEHATAN,BESAR,Badan Hukum,Buaran Kradenan
+423,BELUM,PENDIDIKAN,BESAR,Perorangan,Kuripan Kertoharjo
+424,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kuripan Kertoharjo
+425,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+426,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+427,BELUM,SOSIAL & KESEHATAN,SEDANG,Perorangan,Jenggot
+428,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+429,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+430,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+431,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+432,SUDAH,SOSIAL & KESEHATAN,BESAR,Perorangan,Buaran Kradenan
+433,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Kertoharjo
+434,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+435,BELUM,PENDIDIKAN,KECIL,Perorangan,Jenggot
+436,SUDAH,PENDIDIKAN,BESAR,Perorangan,Banyurip
+437,SUDAH,PENDIDIKAN,KECIL,Perorangan,Banyurip
+438,SUDAH,PENDIDIKAN,BESAR,Perorangan,Banyurip
+439,SUDAH,PENDIDIKAN,BESAR,Perorangan,Kuripan Kertoharjo
+440,SUDAH,MASJID,KECIL,Perorangan,Buaran Kradenan
+441,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+442,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+443,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Banyurip
+444,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+445,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+446,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+447,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+448,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+449,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+450,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Kuripan Yosorejo
+451,SUDAH,PENDIDIKAN,KECIL,Perorangan,Buaran Kradenan
+452,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+453,SUDAH,MASJID,BESAR,Perorangan,Banyurip
+454,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+455,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Jenggot
+456,BELUM,MASJID,BESAR,Perorangan,Sokoduwet
+457,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Jenggot
+458,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Jenggot
+459,BELUM,PENDIDIKAN,BESAR,Badan Hukum,Jenggot
+460,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Kuripan Yosorejo
+461,BELUM,SOSIAL & KESEHATAN,BESAR,Perorangan,Kuripan Kertoharjo
+462,SUDAH,SOSIAL & KESEHATAN,BESAR,Perorangan,Kuripan Kertoharjo
+463,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+464,SUDAH,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+465,SUDAH,MASJID,SEDANG,Perorangan,Jenggot
+466,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Kertoharjo
+467,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Banyurip
+468,SUDAH,SOSIAL & KESEHATAN,BESAR,Perorangan,Sokoduwet
+469,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Kuripan Kertoharjo
+470,SUDAH,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+471,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Banyurip
+472,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Buaran Kradenan
+473,BELUM,PENDIDIKAN,BESAR,Badan Hukum,Jenggot
+474,BELUM,PENDIDIKAN,KECIL,Perorangan,Buaran Kradenan
+475,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Kuripan Yosorejo
+476,BELUM,MUSHOLLAH,SEDANG,Perorangan,Banyurip
+477,BELUM,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+478,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+479,SUDAH,MASJID,KECIL,Perorangan,Kuripan Yosorejo
+480,SUDAH,MASJID,SEDANG,Perorangan,Kuripan Yosorejo
+481,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+482,BELUM,MASJID,SEDANG,Perorangan,Sokoduwet
+483,BELUM,MASJID,SEDANG,Perorangan,Sokoduwet
+484,BELUM,PENDIDIKAN,BESAR,Perorangan,Sokoduwet
+485,BELUM,MASJID,BESAR,Perorangan,Banyurip
+486,BELUM,MAKAM,BESAR,Perorangan,Banyurip
+487,BELUM,SOSIAL & KESEHATAN,SEDANG,Perorangan,Sokoduwet
+488,SUDAH,MUSHOLLAH,SEDANG,Badan Hukum,Buaran Kradenan
+489,SUDAH,MUSHOLLAH,KECIL,Perorangan,Jenggot
+490,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+491,BELUM,MASJID,KECIL,Badan Hukum,Kuripan Kertoharjo
+492,SUDAH,MUSHOLLAH,KECIL,Perorangan,Banyurip
+493,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Kuripan Kertoharjo
+494,SUDAH,PENDIDIKAN,KECIL,Perorangan,Banyurip
+495,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+496,BELUM,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+497,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+498,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Buaran Kradenan
+499,BELUM,MUSHOLLAH,SEDANG,Perorangan,Banyurip
+500,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Banyurip
+501,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Kuripan Kertoharjo
+502,SUDAH,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+503,BELUM,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+504,BELUM,SOSIAL & KESEHATAN,BESAR,Perorangan,Kuripan Yosorejo
+505,BELUM,MAKAM,SEDANG,Perorangan,Kuripan Yosorejo
+506,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+507,SUDAH,SOSIAL & KESEHATAN,SEDANG,Perorangan,Jenggot
+508,BELUM,MASJID,KECIL,Perorangan,Sokoduwet
+509,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Kuripan Kertoharjo
+510,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Sokoduwet
+511,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Sokoduwet
+512,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Sokoduwet
+513,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Sokoduwet
+514,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Sokoduwet
+515,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+516,BELUM,MASJID,SEDANG,Perorangan,Sokoduwet
+517,BELUM,MASJID,SEDANG,Perorangan,Sokoduwet
+518,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+519,BELUM,MUSHOLLAH,SEDANG,Perorangan,Buaran Kradenan
+520,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Sokoduwet
+521,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Kuripan Yosorejo
+522,BELUM,MASJID,SEDANG,Perorangan,Jenggot
+523,BELUM,MASJID,BESAR,Perorangan,Jenggot
+524,BELUM,PENDIDIKAN,BESAR,Badan Hukum,Sokoduwet
+525,BELUM,PENDIDIKAN,BESAR,Badan Hukum,Sokoduwet
+526,BELUM,PENDIDIKAN,SEDANG,Badan Hukum,Sokoduwet
+527,BELUM,PENDIDIKAN,BESAR,Badan Hukum,Sokoduwet
+528,BELUM,MUSHOLLAH,KECIL,Perorangan,Kuripan Yosorejo
+529,BELUM,MAKAM,BESAR,Perorangan,Kuripan Yosorejo
+530,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+531,SUDAH,MAKAM,BESAR,Perorangan,Kuripan Kertoharjo
+532,SUDAH,PENDIDIKAN,BESAR,Perorangan,Kuripan Kertoharjo
+533,SUDAH,MASJID,SEDANG,Perorangan,Sokoduwet
+534,SUDAH,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+535,BELUM,PENDIDIKAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+536,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Jenggot
+537,SUDAH,MASJID,KECIL,Perorangan,Kuripan Yosorejo
+538,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Kuripan Yosorejo
+539,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+540,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Kertoharjo
+541,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+542,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Yosorejo
+543,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+544,SUDAH,PENDIDIKAN,BESAR,Perorangan,Kuripan Kertoharjo
+545,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Kertoharjo
+546,SUDAH,MUSHOLLAH,KECIL,Perorangan,Banyurip
+547,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+548,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+549,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kuripan Kertoharjo
+550,BELUM,MUSHOLLAH,SEDANG,Perorangan,Banyurip
+551,BELUM,MUSHOLLAH,KECIL,Perorangan,Banyurip
+552,SUDAH,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+553,BELUM,MASJID,SEDANG,Perorangan,Banyurip
+554,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Kuripan Kertoharjo
+555,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Buaran Kradenan
+556,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kuripan Kertoharjo
+557,BELUM,PENDIDIKAN,KECIL,Badan Hukum,Sokoduwet
+558,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Jenggot
+559,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Sokoduwet
+560,BELUM,PENDIDIKAN,KECIL,Badan Hukum,Sokoduwet
+561,SUDAH,MUSHOLLAH,KECIL,Perorangan,Jenggot
+562,BELUM,MASJID,BESAR,Perorangan,Kuripan Kertoharjo
+563,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Jenggot
+564,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Jenggot
+565,SUDAH,MUSHOLLAH,KECIL,Perorangan,Jenggot
+566,SUDAH,MUSHOLLAH,KECIL,Perorangan,Jenggot
+567,SUDAH,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+568,SUDAH,MUSHOLLAH,KECIL,Perorangan,Sokoduwet
+569,SUDAH,MASJID,KECIL,Badan Hukum,Kuripan Yosorejo
+570,BELUM,MASJID,SEDANG,Badan Hukum,Kuripan Yosorejo
+571,BELUM,MUSHOLLAH,SEDANG,Perorangan,Jenggot
+572,BELUM,MASJID,SEDANG,Badan Hukum,Kuripan Kertoharjo
+573,BELUM,PENDIDIKAN,SEDANG,Perorangan,Banyurip
+574,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+575,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+576,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+577,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kuripan Kertoharjo
+578,SUDAH,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+579,SUDAH,MUSHOLLAH,KECIL,Perorangan,Buaran Kradenan
+580,BELUM,MASJID,BESAR,Perorangan,Sokoduwet
+581,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Jenggot
+582,SUDAH,PENDIDIKAN,KECIL,Perorangan,Jenggot
+583,BELUM,MASJID,BESAR,Perorangan,Sokoduwet
+584,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kuripan Kertoharjo
+585,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Poncol
+586,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kauman
+587,BELUM,SOSIAL & KESEHATAN,BESAR,Perorangan,Noyontaansari
+588,SUDAH,MASJID,KECIL,Badan Hukum,Klego
+589,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Kauman
+590,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Klego
+591,SUDAH,MUSHOLLAH,KECIL,Perorangan,Setono
+592,BELUM,MUSHOLLAH,KECIL,Badan Hukum,Kauman
+593,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+594,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+595,BELUM,MUSHOLLAH,KECIL,Perorangan,Gamer
+596,BELUM,MUSHOLLAH,KECIL,Perorangan,Gamer
+597,BELUM,MUSHOLLAH,KECIL,Perorangan,Klego
+598,BELUM,MUSHOLLAH,KECIL,Perorangan,Klego
+599,BELUM,MUSHOLLAH,KECIL,Perorangan,Klego
+600,BELUM,MUSHOLLAH,KECIL,Perorangan,Klego
+601,BELUM,MUSHOLLAH,KECIL,Perorangan,Klego
+602,BELUM,MUSHOLLAH,KECIL,Perorangan,Klego
+603,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+604,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+605,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+606,BELUM,MASJID,BESAR,Perorangan,Kauman
+607,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+608,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+609,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+610,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+611,BELUM,MUSHOLLAH,SEDANG,Perorangan,Setono
+612,BELUM,MUSHOLLAH,KECIL,Perorangan,Setono
+613,BELUM,PENDIDIKAN,BESAR,Perorangan,Setono
+614,BELUM,MUSHOLLAH,KECIL,Perorangan,Setono
+615,BELUM,MUSHOLLAH,SEDANG,Perorangan,Setono
+616,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+617,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+618,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+619,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+620,BELUM,MASJID,SEDANG,Perorangan,Kalibaros
+621,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+622,SUDAH,MASJID,BESAR,Perorangan,Kalibaros
+623,SUDAH,MASJID,BESAR,Perorangan,Kalibaros
+624,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+625,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+626,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+627,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+628,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+629,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+630,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+631,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+632,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+633,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+634,BELUM,MUSHOLLAH,KECIL,Perorangan,Setono
+635,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+636,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+637,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+638,BELUM,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+639,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+640,BELUM,MUSHOLLAH,BESAR,Perorangan,Noyontaansari
+641,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kauman
+642,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+643,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+644,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+645,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+646,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+647,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+648,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+649,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+650,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+651,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+652,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+653,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kauman
+654,BELUM,MUSHOLLAH,KECIL,Perorangan,Kauman
+655,BELUM,MASJID,BESAR,Perorangan,Setono
+656,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+657,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+658,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+659,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+660,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+661,BELUM,MASJID,BESAR,Perorangan,Kalibaros
+662,BELUM,MUSHOLLAH,KECIL,Perorangan,Gamer
+663,BELUM,MUSHOLLAH,KECIL,Perorangan,Gamer
+664,BELUM,MUSHOLLAH,KECIL,Perorangan,Gamer
+665,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Poncol
+666,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Poncol
+667,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Poncol
+668,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kauman
+669,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Kauman
+670,BELUM,MASJID,SEDANG,Perorangan,Kalibaros
+671,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+672,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+673,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+674,BELUM,PENDIDIKAN,BESAR,Perorangan,Kalibaros
+675,BELUM,MASJID,SEDANG,Perorangan,Kalibaros
+676,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kalibaros
+677,BELUM,MASJID,BESAR,Perorangan,Kalibaros
+678,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Poncol
+679,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+680,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+681,BELUM,MASJID,SEDANG,Perorangan,Kalibaros
+682,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kauman
+683,SUDAH,MUSHOLLAH,BESAR,Perorangan,Noyontaansari
+684,SUDAH,PENDIDIKAN,KECIL,Perorangan,Noyontaansari
+685,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+686,BELUM,MUSHOLLAH,KECIL,Perorangan,Gamer
+687,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Poncol
+688,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Klego
+689,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Klego
+690,BELUM,PENDIDIKAN,SEDANG,Perorangan,Setono
+691,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kauman
+692,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kauman
+693,BELUM,MUSHOLLAH,SEDANG,Badan Hukum,Klego
+694,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+695,BELUM,PENDIDIKAN,SEDANG,Perorangan,Poncol
+696,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+697,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+698,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+699,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+700,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+701,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Klego
+702,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+703,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+704,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+705,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Poncol
+706,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+707,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Klego
+708,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+709,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+710,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+711,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Klego
+712,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+713,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+714,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+715,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+716,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+717,BELUM,SOSIAL & KESEHATAN,KECIL,Perorangan,Kauman
+718,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Klego
+719,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Klego
+720,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+721,SUDAH,MASJID,SEDANG,Organisasi,Noyontaansari
+722,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Klego
+723,BELUM,PENDIDIKAN,SEDANG,Organisasi,Noyontaansari
+724,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Poncol
+725,SUDAH,MUSHOLLAH,SEDANG,Organisasi,Noyontaansari
+726,SUDAH,MASJID,BESAR,Organisasi,Noyontaansari
+727,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+728,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+729,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+730,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+731,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Poncol
+732,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Poncol
+733,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+734,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Poncol
+735,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Noyontaansari
+736,SUDAH,MASJID,SEDANG,Badan Hukum,Kalibaros
+737,SUDAH,MASJID,SEDANG,Badan Hukum,Kalibaros
+738,SUDAH,MASJID,KECIL,Badan Hukum,Kalibaros
+739,SUDAH,MASJID,SEDANG,Badan Hukum,Kalibaros
+740,SUDAH,MASJID,SEDANG,Badan Hukum,Kalibaros
+741,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Noyontaansari
+742,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+743,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+744,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+745,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+746,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+747,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+748,BELUM,MASJID,SEDANG,Perorangan,Setono
+749,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+750,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+751,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+752,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kauman
+753,SUDAH,PENDIDIKAN,KECIL,Perorangan,Noyontaansari
+754,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kauman
+755,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kauman
+756,SUDAH,SOSIAL & KESEHATAN,SEDANG,Organisasi,Poncol
+757,SUDAH,PENDIDIKAN,BESAR,Organisasi,Noyontaansari
+758,SUDAH,PENDIDIKAN,BESAR,Organisasi,Noyontaansari
+759,SUDAH,LAHAN PRODUKTIF,BESAR,Badan Hukum,Gamer
+760,SUDAH,LAHAN PRODUKTIF,BESAR,Badan Hukum,Gamer
+761,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+762,SUDAH,SOSIAL & KESEHATAN,KECIL,Organisasi,Noyontaansari
+763,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Klego
+764,SUDAH,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+765,SUDAH,MASJID,KECIL,Perorangan,Setono
+766,SUDAH,PENDIDIKAN,SEDANG,Organisasi,Noyontaansari
+767,SUDAH,PENDIDIKAN,KECIL,Organisasi,Noyontaansari
+768,SUDAH,PENDIDIKAN,BESAR,Organisasi,Gamer
+769,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Gamer
+770,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Gamer
+771,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Gamer
+772,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+773,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+774,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+775,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+776,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+777,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Klego
+778,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+779,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+780,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+781,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+782,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+783,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+784,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+785,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+786,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+787,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+788,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+789,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+790,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+791,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+792,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Klego
+793,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+794,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+795,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Poncol
+796,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+797,BELUM,PENDIDIKAN,KECIL,Badan Hukum,Kauman
+798,SUDAH,MUSHOLLAH,KECIL,Organisasi,Poncol
+799,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Setono
+800,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Gamer
+801,SUDAH,MUSHOLLAH,KECIL,Organisasi,Setono
+802,SUDAH,MASJID,SEDANG,Perorangan,Setono
+803,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+804,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+805,SUDAH,MASJID,BESAR,Perorangan,Kalibaros
+806,SUDAH,PENDIDIKAN,KECIL,Perorangan,Setono
+807,BELUM,MASJID,SEDANG,Perorangan,Kalibaros
+808,SUDAH,MASJID,KECIL,Perorangan,Kauman
+809,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Setono
+810,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Setono
+811,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+812,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+813,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Poncol
+814,SUDAH,MASJID,BESAR,Perorangan,Kalibaros
+815,BELUM,MUSHOLLAH,SEDANG,Perorangan,Kalibaros
+816,BELUM,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+817,BELUM,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+818,BELUM,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+819,BELUM,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+820,BELUM,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+821,BELUM,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+822,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+823,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kauman
+824,SUDAH,LAHAN PRODUKTIF,SEDANG,Perorangan,Noyontaansari
+825,SUDAH,PENDIDIKAN,KECIL,Perorangan,Poncol
+826,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+827,SUDAH,PENDIDIKAN,KECIL,Perorangan,Noyontaansari
+828,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+829,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+830,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Gamer
+831,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Noyontaansari
+832,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Gamer
+833,SUDAH,MASJID,BESAR,Badan Hukum,Setono
+834,SUDAH,MASJID,BESAR,Badan Hukum,Setono
+835,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Setono
+836,SUDAH,MASJID,BESAR,Badan Hukum,Setono
+837,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Setono
+838,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Kauman
+839,SUDAH,PENDIDIKAN,KECIL,Perorangan,Klego
+840,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+841,BELUM,MAKAM,SEDANG,Perorangan,Setono
+842,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Klego
+843,SUDAH,PENDIDIKAN,KECIL,Perorangan,Kalibaros
+844,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kalibaros
+845,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Kalibaros
+846,BELUM,MUSHOLLAH,SEDANG,Perorangan,Gamer
+847,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+848,BELUM,PENDIDIKAN,KECIL,Perorangan,Noyontaansari
+849,SUDAH,PENDIDIKAN,KECIL,Perorangan,Noyontaansari
+850,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Setono
+851,BELUM,PENDIDIKAN,SEDANG,Perorangan,Kalibaros
+852,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Setono
+853,SUDAH,MASJID,BESAR,Perorangan,Gamer
+854,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+855,SUDAH,MUSHOLLAH,KECIL,Perorangan,Poncol
+856,SUDAH,MASJID,BESAR,Perorangan,Kalibaros
+857,BELUM,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+858,SUDAH,MUSHOLLAH,KECIL,Organisasi,Kalibaros
+859,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+860,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+861,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kauman
+862,SUDAH,PENDIDIKAN,BESAR,Perorangan,Gamer
+863,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Gamer
+864,SUDAH,SOSIAL & KESEHATAN,KECIL,Perorangan,Klego
+865,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Kauman
+866,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Setono
+867,BELUM,MASJID,SEDANG,Perorangan,Kalibaros
+868,BELUM,MASJID,BESAR,Perorangan,Kalibaros
+869,BELUM,MASJID,SEDANG,Perorangan,Kalibaros
+870,BELUM,PENDIDIKAN,KECIL,Perorangan,Kalibaros
+871,BELUM,MUSHOLLAH,KECIL,Perorangan,Poncol
+872,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kalibaros
+873,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Gamer
+874,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+875,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kalibaros
+876,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kalibaros
+877,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kalibaros
+878,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Gamer
+879,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Setono
+880,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Setono
+881,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Setono
+882,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Setono
+883,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Setono
+884,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Setono
+885,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Kauman
+886,SUDAH,PENDIDIKAN,KECIL,Perorangan,Klego
+887,BELUM,PENDIDIKAN,BESAR,Badan Hukum,Kalibaros
+888,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Poncol
+889,BELUM,PENDIDIKAN,SEDANG,Badan Hukum,Kauman
+890,SUDAH,MASJID,BESAR,Perorangan,Kalibaros
+891,SUDAH,MUSHOLLAH,KECIL,Badan Hukum,Kalibaros
+892,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Kauman
+893,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+894,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+895,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Kauman
+896,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Klego
+897,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Kauman
+898,SUDAH,MASJID,SEDANG,Badan Hukum,Gamer
+899,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Noyontaansari
+900,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Poncol
+901,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kauman
+902,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kauman
+903,BELUM,PENDIDIKAN,KECIL,Perorangan,Noyontaansari
+904,SUDAH,PENDIDIKAN,KECIL,Perorangan,Noyontaansari
+905,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Kalibaros
+906,BELUM,MASJID,KECIL,Perorangan,Kauman
+907,SUDAH,PENDIDIKAN,KECIL,Perorangan,Klego
+908,BELUM,MUSHOLLAH,KECIL,Badan Hukum,Klego
+909,SUDAH,PENDIDIKAN,BESAR,Badan Hukum,Kalibaros
+910,BELUM,MUSHOLLAH,KECIL,Perorangan,Noyontaansari
+911,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Poncol
+912,BELUM,MASJID,BESAR,Badan Hukum,Krapyak
+913,BELUM,MASJID,SEDANG,Perorangan,Panjang Wetan
+914,BELUM,MUSHOLLAH,KECIL,Badan Hukum,Bandengan
+915,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Panjang Wetan
+916,SUDAH,LAHAN PRODUKTIF,SEDANG,Organisasi,Krapyak
+917,SUDAH,LAHAN PRODUKTIF,BESAR,Organisasi,Kandang Panjang
+918,SUDAH,LAHAN PRODUKTIF,SEDANG,Organisasi,Kandang Panjang
+919,SUDAH,LAHAN PRODUKTIF,SEDANG,Organisasi,Padukuhan Kraton
+920,SUDAH,MASJID,BESAR,Organisasi,Bandengan
+921,SUDAH,PENDIDIKAN,KECIL,Perorangan,Krapyak
+922,SUDAH,MASJID,SEDANG,Perorangan,Padukuhan Kraton
+923,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Padukuhan Kraton
+924,SUDAH,PENDIDIKAN,KECIL,Perorangan,Padukuhan Kraton
+925,SUDAH,PENDIDIKAN,SEDANG,Organisasi,Padukuhan Kraton
+926,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Wetan
+927,SUDAH,PENDIDIKAN,KECIL,Perorangan,Padukuhan Kraton
+928,SUDAH,MASJID,KECIL,Perorangan,Panjang Wetan
+929,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Degayu
+930,SUDAH,SOSIAL & KESEHATAN,SEDANG,Perorangan,Krapyak
+931,SUDAH,MUSHOLLAH,KECIL,Perorangan,Degayu
+932,SUDAH,PENDIDIKAN,KECIL,Perorangan,Panjang Wetan
+933,SUDAH,PENDIDIKAN,KECIL,Perorangan,Padukuhan Kraton
+934,SUDAH,MUSHOLLAH,KECIL,Perorangan,Padukuhan Kraton
+935,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Degayu
+936,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kandang Panjang
+937,SUDAH,MASJID,SEDANG,Perorangan,Panjang Wetan
+938,BELUM,PENDIDIKAN,SEDANG,Perorangan,Bandengan
+939,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Panjang Wetan
+940,SUDAH,PENDIDIKAN,BESAR,Perorangan,Padukuhan Kraton
+941,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Padukuhan Kraton
+942,SUDAH,SOSIAL & KESEHATAN,SEDANG,Perorangan,Krapyak
+943,SUDAH,SOSIAL & KESEHATAN,SEDANG,Perorangan,Krapyak
+944,SUDAH,SOSIAL & KESEHATAN,SEDANG,Perorangan,Krapyak
+945,BELUM,MUSHOLLAH,SEDANG,Perorangan,Padukuhan Kraton
+946,SUDAH,MUSHOLLAH,KECIL,Perorangan,Kandang Panjang
+947,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Wetan
+948,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Padukuhan Kraton
+949,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+950,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+951,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+952,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+953,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+954,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+955,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+956,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+957,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+958,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+959,SUDAH,MUSHOLLAH,KECIL,Perorangan,Krapyak
+960,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Panjang Wetan
+961,BELUM,PENDIDIKAN,KECIL,Perorangan,Panjang Wetan
+962,SUDAH,MUSHOLLAH,BESAR,Perorangan,Bandengan
+963,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Panjang Wetan
+964,SUDAH,MUSHOLLAH,KECIL,Perorangan,Bandengan
+965,SUDAH,PENDIDIKAN,KECIL,Perorangan,Padukuhan Kraton
+966,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Padukuhan Kraton
+967,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Panjang Wetan
+968,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Wetan
+969,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Panjang Wetan
+970,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Baru
+971,SUDAH,MASJID,BESAR,Badan Hukum,Krapyak
+972,SUDAH,MUSHOLLAH,KECIL,Perorangan,Degayu
+973,SUDAH,PENDIDIKAN,KECIL,Perorangan,Bandengan
+974,SUDAH,MAKAM,BESAR,Organisasi,Degayu
+975,SUDAH,MAKAM,SEDANG,Organisasi,Degayu
+976,SUDAH,SOSIAL & KESEHATAN,BESAR,Badan Hukum,Krapyak
+977,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Wetan
+978,SUDAH,MASJID,KECIL,Perorangan,Kandang Panjang
+979,SUDAH,MUSHOLLAH,KECIL,Perorangan,Padukuhan Kraton
+980,SUDAH,MUSHOLLAH,KECIL,Perorangan,Krapyak
+981,SUDAH,PENDIDIKAN,KECIL,Perorangan,Bandengan
+982,SUDAH,MASJID,SEDANG,Perorangan,Kandang Panjang
+983,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Panjang Wetan
+984,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Panjang Wetan
+985,SUDAH,MUSHOLLAH,KECIL,Perorangan,Krapyak
+986,BELUM,PENDIDIKAN,KECIL,Perorangan,Panjang Wetan
+987,SUDAH,PENDIDIKAN,KECIL,Perorangan,Panjang Wetan
+988,SUDAH,PENDIDIKAN,KECIL,Perorangan,Padukuhan Kraton
+989,SUDAH,MUSHOLLAH,KECIL,Perorangan,Padukuhan Kraton
+990,SUDAH,PENDIDIKAN,KECIL,Perorangan,Panjang Baru
+991,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Baru
+992,SUDAH,MUSHOLLAH,KECIL,Perorangan,Krapyak
+993,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+994,SUDAH,MUSHOLLAH,KECIL,Perorangan,Krapyak
+995,BELUM,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Padukuhan Kraton
+996,BELUM,MASJID,SEDANG,Perorangan,Kandang Panjang
+997,BELUM,MASJID,SEDANG,Perorangan,Panjang Baru
+998,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Krapyak
+999,BELUM,PENDIDIKAN,KECIL,Badan Hukum,Padukuhan Kraton
+1000,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Wetan
+1001,BELUM,MASJID,SEDANG,Perorangan,Degayu
+1002,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Panjang Wetan
+1003,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Panjang Wetan
+1004,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Panjang Wetan
+1005,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+1006,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+1007,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Padukuhan Kraton
+1008,BELUM,MASJID,SEDANG,Perorangan,Panjang Baru
+1009,BELUM,MUSHOLLAH,SEDANG,Perorangan,Krapyak
+1010,BELUM,MASJID,SEDANG,Perorangan,Padukuhan Kraton
+1011,SUDAH,PENDIDIKAN,SEDANG,Perorangan,Bandengan
+1012,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+1013,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+1014,SUDAH,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+1015,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Panjang Wetan
+1016,SUDAH,SOSIAL & KESEHATAN,KECIL,Perorangan,Degayu
+1017,SUDAH,PENDIDIKAN,KECIL,Organisasi,Padukuhan Kraton
+1018,SUDAH,SOSIAL & KESEHATAN,SEDANG,Badan Hukum,Padukuhan Kraton
+1019,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Panjang Baru
+1020,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Baru
+1021,SUDAH,MUSHOLLAH,KECIL,Perorangan,Panjang Baru
+1022,SUDAH,MUSHOLLAH,KECIL,Perorangan,Degayu
+1023,SUDAH,PENDIDIKAN,SEDANG,Badan Hukum,Krapyak
+1024,SUDAH,MASJID,SEDANG,Perorangan,Degayu
+1025,SUDAH,SOSIAL & KESEHATAN,KECIL,Badan Hukum,Padukuhan Kraton
+1026,BELUM,PENDIDIKAN,KECIL,Badan Hukum,Krapyak
+1027,BELUM,PENDIDIKAN,SEDANG,Perorangan,Padukuhan Kraton
+1028,SUDAH,PENDIDIKAN,KECIL,Perorangan,Bandengan
+1029,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Panjang Baru
+1030,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Degayu
+1031,SUDAH,MUSHOLLAH,KECIL,Perorangan,Degayu
+1032,SUDAH,MUSHOLLAH,SEDANG,Perorangan,Krapyak

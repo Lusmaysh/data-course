@@ -16,7 +16,11 @@ Choose one of the following setup options based on your environment.
 ### Option 1: Using Native Python and PostgreSQL Server
 
 1. **Install Dependencies**:
+  Open a terminal/PowerShell and run:
    - Ensure Python 3.8+ is installed.
+     ```bash
+      python --version
+    ```
    - Install required Python packages:
      ```bash
      pip install -r requirements.txt
@@ -36,9 +40,10 @@ Choose one of the following setup options based on your environment.
      CREATE USER app WITH PASSWORD 'secret';
      GRANT ALL PRIVILEGES ON DATABASE nlpdb TO app;
      ```
+   - Ensure the `app` user can connect and has the necessary privileges to manipulate the database.
 
 3. **Configure Environment**:
-   - Create a `.env` file in the project root with your database connection:
+   - Create a `.env` file or rename the example `.env.example` to `.env` in the project root with your database connection:
      ```
      DATABASE_URL=postgresql://app:secret@localhost:5432/nlpdb
      ```
